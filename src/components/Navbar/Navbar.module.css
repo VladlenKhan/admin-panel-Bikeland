@@ -1,0 +1,15 @@
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    height: 94px;
+    background-color: white;
+    width: 100%;
+    
+}
+.images {
+    padding-right:49px;
+    display: flex;
+    align-items: center; 
+    gap:49px;
+}
