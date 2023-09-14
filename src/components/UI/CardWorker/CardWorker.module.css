@@ -1,0 +1,142 @@
+.block {
+    width: 253px;
+    height: 344px;
+    flex-shrink: 0;
+    border-radius: 12px;
+    background: #FFF;
+    box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.15);
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 11px 11px;
+    box-sizing: border-box;
+}
+
+.img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title {
+    width: 234px;
+    height: 34px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    background: #F4F4F4;
+    color: #000;
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 9px;
+
+}
+
+.text__1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 85px;
+    height: 34px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    background: #F4F4F4;
+    color: #000;
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.text__2 {
+    color: #000;
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 140px;
+    height: 34px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    background: #F4F4F4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button1 {
+    width: 234px;
+    height: 29px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    background: #BB1D1E;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+
+}
+
+.email {
+    width: 234px;
+    height: 34px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    background: #F4F4F4;
+    color: #000;
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding-left:8px;
+    box-sizing: border-box;
+}
+
+.button1 p {
+    color: #FFF;
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.button2 {
+    width: 234px;
+    height: 29px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.15);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.button2 p {
+    color: #BB1D1E;
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}

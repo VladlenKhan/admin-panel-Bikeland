@@ -1,0 +1,10 @@
+.block {
+    width: 88px;
+    height: 75px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #FFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,7 +1,12 @@
 .block {
     width: 100%;
     background-color: #BB1D1E;
-    height: 174px;
+ 
     box-sizing: border-box;
     padding:44px 47px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap:26px;
+    flex-wrap: wrap;
 }

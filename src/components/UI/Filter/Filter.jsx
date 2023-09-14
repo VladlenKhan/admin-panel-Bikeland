@@ -2,7 +2,7 @@ import styles from './Filter.module.css';
 
 const Filter = () => {
     return ( 
-        <div>
+        <div className={styles.block}>
             <div className={styles.img}>
                 <img src="/icon11.svg" alt="" />
             </div>

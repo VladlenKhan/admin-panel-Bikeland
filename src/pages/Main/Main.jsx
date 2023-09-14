@@ -1,18 +1,16 @@
-import { Block, Navbar, Sidebar , Wrapper } from "../../components";
+import { Block, Navbar, Sidebar } from "../../components";
 import styles from "./Main.module.css";
 
 const Main = () => {
-  return (
-    
+  return ( 
       <main className={styles.main}>
         <Sidebar />
         <div className={styles.block}>
-        <Navbar />
-        <Block/>
+          <Navbar />
+          <Block />
         </div>
       </main>
-
-     
+    
   );
 };
 

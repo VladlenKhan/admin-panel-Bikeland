@@ -4,12 +4,13 @@
     justify-content: end;
     height: 94px;
     background-color: white;
-    width: 100%;
-    
+    width: 100%; 
+    box-shadow: 0px 4px 23px 0px rgba(0, 0, 0, 0.15);
 }
+
 .images {
-    padding-right:49px;
+    padding-right: 49px;
     display: flex;
-    align-items: center; 
-    gap:49px;
+    align-items: center;
+    gap: 49px;
 }
