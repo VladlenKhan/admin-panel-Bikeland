@@ -4,9 +4,7 @@ import styles from './Block.module.css';
 const Block = () => {
     return ( 
         <div className={styles.block}>
-            <Servant/>
-            <Filter/>
-            <Sort/>
+           
              
         </div>
      );

@@ -1,0 +1,21 @@
+.main {
+    display: flex; 
+
+}
+.container {
+    max-width:1980px;
+    margin: 0 auto; 
+}
+.block {
+    width:90%;
+    display: flex;
+    flex-direction: column;
+}
+.orders {
+    padding:33px 56px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap:76px;
+}

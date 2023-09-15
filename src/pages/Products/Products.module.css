@@ -12,23 +12,11 @@
     flex-direction: column;
 }
 
-.list {
+.products {
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-direction: column;
-    gap:27px;
-    position:relative;
-    top:-40px;
-    padding:0 100px;
-  
-}
-
-.list__block {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap:25px;
+    gap:36px;
+    padding:36px 36px;
     flex-wrap: wrap;
-
 }
